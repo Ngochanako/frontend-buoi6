@@ -1,0 +1,19 @@
+table,th{
+    text-align: left;
+    color: grey;
+    border: 1px solid rgb(222, 211, 211);
+    border-collapse: collapse;
+}
+th{
+    height: 40px;
+
+}
+table{
+    width: 100%;
+}
+th:nth-child(odd){
+    background-color: aliceblue;
+}
+.b{
+color: black;
+}

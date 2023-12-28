@@ -1,0 +1,28 @@
+#container{
+    height: 450px;
+    width: 300px;
+    border: 1px solid rgb(219, 203, 203);
+   background-color: rgb(217, 204, 204);
+   text-align: center;
+}
+#body{
+    height: 450px;
+    width: 250px;
+    margin: 20px 25px;
+   background-color: white;
+   border-top-right-radius: 40%;
+    border-top-left-radius: 40%;
+}
+img{
+    margin-top: 20px;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.text{
+    margin-left: 25px;
+}
+p{
+    color: grey;
+}
